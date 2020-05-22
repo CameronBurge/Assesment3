@@ -79,14 +79,20 @@ a mood tracker. a small device with a series of steps it can be placed on. depen
 an object that sits niceley on a bedside table that is flipped to different sides to create different light show. examples like a a fast stobe to pair with some music for a bedroom party. a slow transitioning color wheel for if you need something mellow to fill the room. single color projection to fill a room with a certain color. a regular light to make a room brighter.
 
 
-## Process documentation ##
-<!--- In this section, include text and images (and potentially links to video) that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.
+## Physical experimentation documentation ##
 
-This should have quite a lot of information! It will likely include most of the process documentation from assessment 2 which can be copied and pasted here.
+*In this section, show your progress including whichever of the following are appropriate for your project at this point.
+a.	Technical development. Could be code screenshots, pictures of electronics and hardware testing, video of tests. 
+b.	Fabrication. Physical models, rough prototypes, sketches, diagrams of form, material considerations, mood boards, etc.
+Ensure you include comments about the choices you've made along the way.*
 
-Use subheadings to structure this information. See https://guides.github.com/features/mastering-markdown/ for details of how to insert subheadings.
+*You will probably have a range of images and screenshots. Any test videos should be uploaded to YouTube or other publicly accessible site and a link provided here.*
 
-There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. --->
+![Image](Test1.JPG)
+
+![Image](Code1.png)
+
+
 
 ## Final code ##
 
