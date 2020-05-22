@@ -92,22 +92,37 @@ Ensure you include comments about the choices you've made along the way.*
 
 ![Image](Code1.png)
 
+for the materials i used an old workbook holder that was made from a thing wood wrapped in a strong cardboard. this gave me a solid material that would hold aswell as a paintable surface.
 
+![Image](Cut.JPG)
+
+i then cut a circle in the hexagon that was going to hold the neopixel. the initial hole fit the neopixel perfectly, though i put a small amount of hot glue on it to hold firmly.
+
+![Image](Pic2.JPG)
+
+heres a picture of it after it was all glues together, still quite rough and not completley painted.
+
+![Image](Pic1.JPG)
 
 ## Final code ##
 
-<!--- Include here screenshots of the final code you used in the project if it is done with block coding. If you have used javascript, micropython, C, or other code, include it as text formatted as code using a series of three backticks ` before and after the code block. See https://guides.github.com/features/mastering-markdown/ for more information about that formatting. --->
+the first code image shows the basics for each roation of the microbit
+
+![Image](FinalCode1.JPG)
+
+this second one shows how long the code was for changing the colors slowly and fast. its not he complete code but it continues in the exact pattern fro quite a bit longer as the calm changing light changes each color value very slightly per line and goes through every number.
+
+![Image](FinalCode2)
 
 ## Design process discussion ##
-<!--- Discuss your process used in this project, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process. --->
-
+By first sitting down and writing ideas down i was able to come up with a rough intent, and it was only after talking about it on the disscussion board that i refined it. reseaching others projects help me develop ideas for lighting aswell as coding for my prototype and materials i might want to look into for the future.
 
 ## Reflection ##
 
 <!--- Describe the parts of your project you felt were most successful and the parts that could have done with improvement, whether in terms of outcome, process, or understanding.
 
-What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?
+there were so any neopixel microbit projects on the interent which were incrdible helpful to me. after watching quite a few i was very comfortable creating the code and plugin in the neoxpisel whilst understanding what i was doing without having to go back to sorces to double check.
 
-What parts of your project do you feel are novel? This is IMPORTANT to help justify a key component of the assessment rubric.
+i felt the shape of my project made it novel. the sharp block like design is different to a normal looking lighting feature that is sold on the market.
 
-What might be an interesting extension of this project? In what other contexts might this project be used? --->
+an extention to this project could combine my use of the x axis with a y access acceleration to maybe change the strength or speed of lights.
