@@ -108,21 +108,22 @@ heres a picture of it after it was all glues together, still quite rough and not
 
 the first code image shows the basics for each roation of the microbit
 
-![Image](FinalCode1.JPG)
+![Image](FinalCode1.png)
 
 this second one shows how long the code was for changing the colors slowly and fast. its not he complete code but it continues in the exact pattern fro quite a bit longer as the calm changing light changes each color value very slightly per line and goes through every number.
 
-![Image](FinalCode2)
+![Image](FinalCode2.png)
 
 ## Design process discussion ##
 By first sitting down and writing ideas down i was able to come up with a rough intent, and it was only after talking about it on the disscussion board that i refined it. reseaching others projects help me develop ideas for lighting aswell as coding for my prototype and materials i might want to look into for the future.
 
 ## Reflection ##
 
-<!--- Describe the parts of your project you felt were most successful and the parts that could have done with improvement, whether in terms of outcome, process, or understanding.
-
 there were so any neopixel microbit projects on the interent which were incrdible helpful to me. after watching quite a few i was very comfortable creating the code and plugin in the neoxpisel whilst understanding what i was doing without having to go back to sorces to double check.
 
 i felt the shape of my project made it novel. the sharp block like design is different to a normal looking lighting feature that is sold on the market.
 
 an extention to this project could combine my use of the x axis with a y access acceleration to maybe change the strength or speed of lights.
+
+
+
