@@ -64,21 +64,20 @@ This project is related to mine because using the accelerometer it corrects its 
 ## Other research ##
 <!--- Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it. You should include a reference or link to each of these resources. --->
 
-## Conceptual development ##
+## Conceptual progress ##
 
 ### Design intent ###
-<!--- Include your design intent here. It should be about a 10 word phrase/sentence. --->
+Create a interactive device that displays lights/Information depending on movement
 
-### Design ideation ###
-<!--- Document your ideation process. This will include the design concepts presented for assessment 2. You can copy and paste that information here. --->
+### Design concept 1 ###
+a cube with multiple faces and functions. for example, one side displays time, one temperature, one weather. using the accelerometre it can detect what side its facing and display the correspodning information. 
+
+### Design concept 2 ###
+a mood tracker. a small device with a series of steps it can be placed on. depending on your mood each day you can put the device higher or lower and it will display a color depending on what mood step youve put it on. could be a good way to tell people how your feeling without saying it.
 
 ### Final design concept ###
-<!--- This should be a description of your concept including its context, motivation, or other relevant information you used to decide on this concept. --->
+an object that sits niceley on a bedside table that is flipped to different sides to create different light show. examples like a a fast stobe to pair with some music for a bedroom party. a slow transitioning color wheel for if you need something mellow to fill the room. single color projection to fill a room with a certain color. a regular light to make a room brighter.
 
-### Interaction flowchart ###
-<!--- Include an interaction flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible. --->
-
-![Image](missingimage.png)
 
 ## Process documentation ##
 <!--- In this section, include text and images (and potentially links to video) that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.
