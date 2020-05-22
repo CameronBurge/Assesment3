@@ -25,6 +25,8 @@ I designed this project to be a small simple device that displays three completl
 
 [![Image](Final2.JPG)](https://vimeo.com/manage/421388914/general)
 
+https://vimeo.com/421388914
+
 ### Journal ###
 
 <!--- The following link will direct to your process and reflection journal, which will be held in the file `journal.md` in the folder called `journal`. This link should not be changed. --->
